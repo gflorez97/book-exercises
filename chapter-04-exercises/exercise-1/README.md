@@ -7,6 +7,6 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 ---
 
->  _(Your limitation—it's only your imagination.)_
+>  _"Your limitation—it's only your imagination."_
 
 More information: [random webpage I just used for this](https://www.success.com/17-motivational-quotes-to-inspire-you-to-be-successful/).
